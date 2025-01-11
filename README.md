@@ -25,14 +25,6 @@ Mi proyecto cumple con todos ellos y, además cumple con los siguientes requerim
 - ✅ Escoger respuesta como solución
 - ✅ Manejo excepciones con mensajes personalizados
 
-- ## Tecnologías utilizadas:
-
-  - [Eclipse](https://www.eclipse.org/)
-  - [H2](https://www.h2database.com/)
-  - [MySql](https://www.mysql.com/)
-  - [Java 17](https://www.java.com/en/)
-  - [Spring Security 6](https://start.spring.io/)
-  - [Token JWT](https://jwt.io/)
 
 ## EndPoints
 
